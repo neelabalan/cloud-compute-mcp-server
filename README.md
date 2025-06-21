@@ -1,6 +1,8 @@
 # Multi-Cloud VM MCP Server
 
-Support for AWS EC2, Azure Virtual Machines and GCP Compute Engine
+Support for AWS EC2, Azure Virtual Machines and GCP Compute Engine.
+
+[Demo link](https://x.com/neelabalan/status/1935339333478924397)
 
 ## Configuration
 
