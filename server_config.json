@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "CloudComputeInfo": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "--with",
+        "requests",
+        "--with",
+        "pyyaml",
+        "mcp",
+        "run",
+        "~/code/cloud-compute-mcp-server/main.py"
+      ]
+    }
+  }
+}
